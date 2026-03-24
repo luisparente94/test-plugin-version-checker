@@ -6,7 +6,7 @@ This repository hosts a static JSON manifest so plugins can read the latest vers
 
 Plugins should fetch:
 
-`https://raw.githubusercontent.com/luisparente94/test-plugin-version-checker/main/plugin-versions.json`
+`https://luisparente94.github.io/test-plugin-version-checker/<pluginId>-plugin-versions.json`
 
 If you rename the repo or change the default branch, update this URL accordingly.
 
